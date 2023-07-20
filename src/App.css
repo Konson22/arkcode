@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+
+    color: rgb(105, 104, 104);
+}
+img{
+    width: 100%;
+    height: 100%;
+}
