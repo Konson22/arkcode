@@ -12,7 +12,7 @@ function App() {
 
   
   return (
-    <div className="text-base">
+    <div className="text-base bg-black text-white">
       <ScrollToTop />
       <Navbar />
       <Routes>
